@@ -1,0 +1,12 @@
+body{
+    color: white;
+    height: 100vh;
+    /* background-color: black; */
+}
+
+input,button{
+    display: block;
+    width: 50%;
+    margin: auto;
+    margin-bottom: 10px;
+}
